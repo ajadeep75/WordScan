@@ -1,0 +1,2 @@
+# WordScan
+Chrome Extension
